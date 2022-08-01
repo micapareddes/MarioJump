@@ -6,7 +6,7 @@
     <div align=center>
     <img src="https://github.com/micapareddes/MarioJump/blob/main/images/mario.gif" width=200px>
     <h1>Mario Jump</h1>
-    <img align=right src="http://img.shields.io/static/v1?label=STATUS&message=COMPLETED&color=GREEN&style=for-the-badge"/>
+    <img align=right src="http://img.shields.io/static/v1?label=STATUS&message=WIP&color=GREEN&style=for-the-badge"/>
       
   </div>
 </head>
