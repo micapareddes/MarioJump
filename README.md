@@ -1,7 +1,8 @@
 <head>
   <div align=corner>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg" width="35px"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg" width="35px">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/JavaScript.svg" width="30px">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/HTML.svg" width="30px"> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/993782dbef600360a61a4393555f3afc0e3c61b1/icons/CSS.svg" width="30px">
   </div>
     <div align=center>
     <img src="https://github.com/micapareddes/MarioJump/blob/main/images/mario.gif" width=200px>
