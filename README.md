@@ -15,7 +15,9 @@
 <body>
 
   ## About
-    🚧constructing🚧
+  
+  A little game I've created following a youtube tutorial for me to start learning a bit of JavaScript. <br>The link of the video: 
+  <a>https://youtu.be/r9buAwVBDhA</a>
     
   ## Making process
     🚧constructing🚧
