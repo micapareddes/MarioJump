@@ -16,7 +16,7 @@
 
   ## Sobre
   
-  Um pequeno jogo que criei seguindo um tutorial do YouTube para começar a aprender um pouco de JavaScript. O objetivo do jogo é controlar o Mario para que ele pule sobre os canos que se aproximam. Se o Mario colidir com um cano, o jogo termina. O link do vídeo tutorial é: 
+  Um pequeno jogo que criei seguindo um tutorial do YouTube para começar a aprender um pouco de JavaScript. O objetivo do jogo é controlar o Mario para que ele pule sobre os canos que se aproximam. Se o Mario colidir com um cano, o jogo termina. O link do vídeo é: 
   <a href="https://youtu.be/r9buAwVBDhA">https://youtu.be/r9buAwVBDhA</a>
     
   ## Processo de Criação
